@@ -3,7 +3,11 @@
 
 LICENSE: [MIT](license.md)
 
+___
+
 ![GIT LOGO](./accets/1920px-Git-logo.svg.png)
+___
+
 # Содержание 
 _Основы работы с удаленным репозиторием_
 
